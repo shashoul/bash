@@ -19,3 +19,4 @@ echo "==> my name before calling the functions is $name"
 print#1 "hihihihi"     #call function print#1 
 print#2 "blablabla"    #call function print#2
 echo "==> my name after calling the functions is $name"
+echo "Added for test purpose!!!"
