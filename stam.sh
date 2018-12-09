@@ -15,9 +15,3 @@ done
 var=$((15%4))
 echo $var
 exit    
-
-
-blablablalblalal
-stammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-ddddddddddddddddddddddddddddddddddddf
-dddddddddddddddddddddddddddddddddddddddd
